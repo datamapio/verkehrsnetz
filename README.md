@@ -1,6 +1,6 @@
 # Verkehrsnetz
 
-## Was wir brauchen?
+## Was wir brauchen
 
 Einen "simplifizierten", aufdatierten Graphen für die gesamte Mobilität mit Nodes und Edges (inkl. Kilometrierung) und Transport Modi. Idealerweise werden daraus auch Dinge ersichtlich wie einzelne Bus- oder Tramlinien etc.       
 
