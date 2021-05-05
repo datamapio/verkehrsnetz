@@ -2,7 +2,7 @@
 
 ## Was wir brauchen
 
-Einen "simplifizierten", aufdatierten Graphen (am ehesten Fachnetz TU des BAV?) für die gesamte Mobilität mit Nodes und Edges (inkl. Kilometrierung) und Transport Modi. Idealerweise werden daraus auch Dinge ersichtlich wie einzelne Bus- oder Tramlinien etc.       
+Einen "simplifizierten", aufdatierten Graphen (am ehesten Fachnetz TU des BAV?) für die gesamte Mobilität mit Nodes/Knoten und Edges/Kanten (inkl. Kilometrierung und Höhenmeter) und Transport Modi. Idealerweise werden daraus auch Dinge ersichtlich wie einzelne Bus- oder Tramlinien etc.       
 
 Für die **GeoUnconference** könnte man das vorerst auf den öffentlichen Verkehr und auf die Schweiz mit Grenzregionen einschränken.      
 Grundsätzlich brauchen wir das aber für alle Transport Modi und weltweit, da wir unsere GPS-Datenpunkte von [Posmo One](https://datamap.io/) auf einem Graphen abbilden wollen.
@@ -33,7 +33,7 @@ Bei der HB SZU, die sich zwar im HB befindet, gibts dann wieder einen einzelnen 
 
 Wir selbst arbeiten viel mit Webinterfaces, damit Nodes oder Edges auf einer Karte überprüfbar sind. 
 Wir könnten uns vorstellen eine solche webbasierte Karte zugänglich zu machen, damit man die Karte 
-a) laufend aufdatieren kann und b) verschiedene Datensets herunterladen kann.               
+a) von aussen laufend aufdatieren kann und b) man jederzeit verschiedene Datensubsets herunterladen kann.               
 
 Man könnte dann Anfragen/Download machen wie z.B.: 
 - Gibt mir das gesamte Zug-Schienennetz im Kanton Zürich, Stand Mai 2021. 
@@ -41,6 +41,7 @@ Man könnte dann Anfragen/Download machen wie z.B.:
 
 
 ## Offene Fragen
+- Zusammenarbeit
 - Kontinuierliche Updates
 - Finanzierung
 
