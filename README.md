@@ -2,7 +2,7 @@
 
 ## Was wir brauchen
 
-Einen "simplifizierten", aufdatierten Graphen für die gesamte Mobilität mit Nodes und Edges (inkl. Kilometrierung) und Transport Modi. Idealerweise werden daraus auch Dinge ersichtlich wie einzelne Bus- oder Tramlinien etc.       
+Einen "simplifizierten", aufdatierten Graphen (am ehesten Fachnetz TU des BAV?) für die gesamte Mobilität mit Nodes und Edges (inkl. Kilometrierung) und Transport Modi. Idealerweise werden daraus auch Dinge ersichtlich wie einzelne Bus- oder Tramlinien etc.       
 
 Für die **GeoUnconference** könnte man das vorerst auf den öffentlichen Verkehr und auf die Schweiz mit Grenzregionen einschränken.      
 Grundsätzlich brauchen wir das aber für alle Transport Modi und weltweit, da wir unsere GPS-Datenpunkte von [Posmo One](https://datamap.io/) auf einem Graphen abbilden wollen.
