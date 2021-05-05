@@ -8,10 +8,10 @@ Für die **GeoUnconference** könnte man das vorerst auf den öffentlichen Verke
 Grundsätzlich brauchen wir das aber für alle Transport Modi und weltweit, da wir unsere GPS-Datenpunkte von [Posmo One](https://datamap.io/) auf einem Graphen abbilden wollen.
                  
 Wichtig dabei ist, dass dieser Graph historisch und immer auch für die aktuelle Gegenwart funktioniert.              
-Denn unsere Daten wurden gestern und werden heute und morgen erhoben. Und unser Map Matching bzw. Routing ist nur so gut, wie der Graph.
+Denn unsere Daten wurden gestern und werden heute und morgen erhoben. Und unser Map Matching ist nur so gut wie der Graph.
 
 PS:       
-Bei den Gemeindegrenzen haben wir bereits gesehen, was für Probleme entstehen, wenn der Bund diese nur periodisch (1 x pro Jahr) aufdatiert. Um z.B. eine Abstimmung als Karte darzustellen, mussten wir selbst die über 10 Gemeinden von Bellinzona zu einem grossen Ganzen zusammenführen.   
+Bei den Gemeindegrenzen haben wir bereits gesehen, was für Probleme entstehen, wenn der Bund diese nur periodisch (1 x pro Jahr) aufdatiert. Um z.B. eine Abstimmung als Karte darzustellen, mussten wir die über 10 Gemeinden von Bellinzona nach der Fusion zu einem grossen Ganzen zusammenführen.   
       
 
 ## Woran wir arbeiten
@@ -34,7 +34,10 @@ Bei der HB SZU, die sich zwar im HB befindet, gibts dann wieder einen einzelnen 
 Wir selbst arbeiten viel mit Webinterfaces, damit Nodes oder Edges auf einer Karte überprüfbar sind. 
 Wir könnten uns vorstellen eine solche webbasierte Karte zugänglich zu machen, damit man die Karte 
 a) laufend aufdatieren kann und b) verschiedene Datensets herunterladen kann.               
-Z.B. Gibt mir das gesamte Zug-Schienennetz im Kanton Zürich, Stand Mai 2021. Gib mir alle neuen Tramlinien seit 2020 in der ganzen Schweiz. 
+
+Man könnte dann Anfragen/Download machen wie z.B.: 
+- Gibt mir das gesamte Zug-Schienennetz im Kanton Zürich, Stand Mai 2021. 
+- Gib mir alle neuen Tramlinien seit 2020 in der ganzen Schweiz. 
 
 
 ## Offene Fragen
