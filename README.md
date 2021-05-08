@@ -50,5 +50,5 @@ Man könnte dann Anfragen/Download machen wie z.B.:
 
 
 Siehe:
-https://twitter.com/datamapio/status/1388849007607357442?s=20
-https://www.swisstopo.admin.ch/de/swisstopo/veranstaltungen/colloque.detail.event.html/swisstopo-internet/events2021/colloquium-20-21/20210326.html
+- [unser Tweet](https://twitter.com/datamapio/status/1388849007607357442?s=20) vom 2021-05-02
+- [swisstopo-Kolloquium "Verkehrsnetz CH"](https://www.swisstopo.admin.ch/de/swisstopo/veranstaltungen/colloque.detail.event.html/swisstopo-internet/events2021/colloquium-20-21/20210326.html) vom 2021-03-26
