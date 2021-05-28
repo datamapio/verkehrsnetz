@@ -16,7 +16,7 @@ Bei den Gemeindegrenzen haben wir bereits gesehen, was für Probleme entstehen, 
 
 ## Woran wir arbeiten
 
-<img src="https://github.com/datamapio/verkehrsnetz/blob/main/h3_nodes_edges.png" width="800" />
+<img src="https://github.com/datamapio/verkehrsnetz/blob/main/h3_nodes_edges.png" width="1200" />
 
 Diesen Graphen ertellen wir zurzeit für Züge. Dabei sind uns die grossen Unterschiede zwischen verschiedenen Datenquellen (BAV, GTFS, Shapefiles) aufgefallen. 
 Leider funktioniert ein einfaches Mapping nicht und viel Handarbeit ist nötig.      
