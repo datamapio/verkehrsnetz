@@ -1,5 +1,19 @@
 # Verkehrsnetz
 
+## Update, 25. Juni 2021
+An der gestrigen #GeoUnconference gabs eine Gruppe zum Thema Verkehrsnetz und Mobilität. Die Wichtigkeit des Verkehrsnetzes war unbestritten in unserer Gruppe. 
+Wichtig sind Qualität und Aktualität dieses Verkehrsnetzes. Bei Swisstopo wird das Verkehrsnetz in den Kategorien Schiene, Strasse, Wasser und Luft unterteilt. Was mir daran gefällt, ist dass neben dem Graphen auch Flächen (z.B. ein Bahnhof) eine Rolle spielen, wie auch Gewässer. Dies ist auch für uns wichtig. 
+Auf der Strasse ist aber für uns ein zusätzlicher Bus-Netz-Layer (bzw. beim ÖV-Netz interessieren uns die Strassen nur insofern, als sich darauf öffentlicher Verkehr fortbewegt) unabdingbar und ich hoffe, nicht nur für uns.   
+       
+Die Lösung für Updates z.B. kurz-, mittel- und langfristige Unterbrechungen von Tram- oder Bus-Linien, saisonale Schifffahrt usw. könnte man über das Einspielen von Fahrplänen (GTFS) oder über manuelle Updates lösen. Dabei hätte gewisse Nutzer der Plattform auf ihre Gebiete, Regionen, Gemeinden usw. Zugriff und könnten dort Aenderungen vornehmen. Z.B. Ausfall der Strecke 6 vom Knoten Hardturm bis Knoten Endstation von Juni bis November 2021.        
+      
+Eine weitere Art von Änderungen wären Probleme des Graphen sichtbar zu machen, z.B. eine Kante/Edge, die im falschen Node endet. Diese Dinge würden an GIS-Büros übergeben, dies könnte regional oder national geschehen.     
+
+Ich hoffe, dass wir bereits bei der nächsten #GeoUnconference konkret an einem Prototypen arbeiten können.
+
+
+
+
 ## Was wir brauchen
 
 Einen "simplifizierten", aufdatierten Graphen (am ehesten Fachnetz TU des BAV?) für die gesamte Mobilität mit Nodes/Knoten und Edges/Kanten (inkl. Kilometrierung und Höhenmeter) und Transport Modi. Idealerweise werden daraus auch Dinge ersichtlich wie einzelne Bus- oder Tramlinien etc.       
@@ -46,6 +60,8 @@ Man könnte dann Anfragen/Download machen wie z.B.:
 - Zusammenarbeit
 - Kontinuierliche Updates
 - Finanzierung
+
+
 
 
 
