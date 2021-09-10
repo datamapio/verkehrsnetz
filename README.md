@@ -3,8 +3,9 @@
 ## Update 2. Geounconference, 9. September 2021
 - Corinne Frey (am Verkehrsnetz beteiligt), 
 - Christine Meixner von derpunkt, 
-- Patrick Müller von Outdoor Active 
-und ich waren diesmal in der Gruppe Mobilität und Verkehr.                
+- Patrick Müller von Outdoor Active        
+- und ich waren diesmal in der Gruppe Mobilität und Verkehr.       
+                            
 Siehe auch: [Diskussion Mobilität und Verkehr](https://github.com/GeoUnconference/discussions/discussions/10)         
 
 Aus meiner Sicht wäre es sinnvoll rasch einen Prototypen zu bauen, der die konkreten Anforderungen an einen gemeinsamen Datenpool in die Tat umsetzt.     
