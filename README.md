@@ -1,5 +1,34 @@
 # Verkehrsnetz
 
+## Update 2. Geounconference, 9. September 2021
+- Corinne Frey (am Verkehrsnetz beteiligt), 
+- Christine Meixner von derpunkt, 
+- Patrick Müller von Outdoor Active 
+und ich waren diesmal in der Gruppe Mobilität und Verkehr.                
+Siehe auch: [Diskussion Mobilität und Verkehr](https://github.com/GeoUnconference/discussions/discussions/10)         
+
+Aus meiner Sicht wäre es sinnvoll rasch einen Prototypen zu bauen, der die konkreten Anforderungen an einen gemeinsamen Datenpool in die Tat umsetzt.     
+
+### Erster und einfachster Usecase: Aktuelle Gemeindegrenzen
+Da CH-Gemeinden auch während dem Jahr fusionieren (z.B. Gemeindefusion Bellinzona), aber Gemeindegrenzen nur 1 x pro Jahr zur Verfügung stehen, könnte man so ein ganz einfaches Beispiel schaffen, an dem man exemplarisch der Mehrnutzen für alle sichtbar würde. Bei jeder Abstimmung oder Wahl braucht es Gemeindegrenzen und diese sind auch historisch relevant.
+
+URL: gemeindegrenzen.ch         
+Nutzer:innen: Alle Journalist:innen, alle Planer:innen, Behörden, d.h. eine sehr breite Nutzerbasis             
+
+Karte zeigt aktuellsten Stand der Gemeindegrenzen.             
+Auf einem Zeitstrahl kann man in die Vergangenheit oder in die Zukunft (geplante Fusionen)           
+
+Download:        
+- LV95 und WGS84             
+- GeoJSON, Shapefile          
+
+### 2. Use Case, den wir vorgestellt haben
+Aktuelles ÖV-Netz (auch mit Busstrecken)
+Siehe auch:
+https://github.com/datamapio/verkehrsnetz
+
+
+
 ## Update, 25. Juni 2021
 An der gestrigen #GeoUnconference gabs eine Gruppe zum Thema Verkehrsnetz und Mobilität. Die Wichtigkeit des Verkehrsnetzes war unbestritten in unserer Gruppe. 
 Wichtig sind Qualität und Aktualität dieses Verkehrsnetzes. Bei Swisstopo wird das Verkehrsnetz in den Kategorien Schiene, Strasse, Wasser und Luft unterteilt. Was mir daran gefällt, ist dass neben dem Graphen auch Flächen (z.B. ein Bahnhof) eine Rolle spielen, wie auch Gewässer. Dies ist auch für uns wichtig. 
