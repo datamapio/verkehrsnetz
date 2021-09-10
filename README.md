@@ -1,10 +1,11 @@
 # Verkehrsnetz
 
 ## Update 2. Geounconference, 9. September 2021
+Gruppe Mobilität und Verkehr
 - Corinne Frey (am Verkehrsnetz beteiligt), 
 - Christine Meixner von derpunkt, 
 - Patrick Müller von Outdoor Active        
-- und ich waren diesmal in der Gruppe Mobilität und Verkehr.       
+- Roger Fischer   
                             
 Siehe auch: [Diskussion Mobilität und Verkehr](https://github.com/GeoUnconference/discussions/discussions/10)         
 
